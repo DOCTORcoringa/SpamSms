@@ -10,7 +10,7 @@ class Main:
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 		;       S P A M  S M S      ;
 		;---------------------------;
-		;       Author : noobie     ;
+		;       Author : Doctor     ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 NOTE: This tool's only work for Indonesia number phone.
@@ -51,3 +51,4 @@ except KeyboardInterrupt:
 	exit('[Exit] Key interrupt')
 except Exception as F:
 	print('Err: %s'%(F))
+
